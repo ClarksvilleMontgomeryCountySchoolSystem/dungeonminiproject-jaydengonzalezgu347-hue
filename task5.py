@@ -1,5 +1,5 @@
-escape=True
-if not escape:
+escaped=False
+if not escaped:
     outcome = "Doom:NOOOOOOOO"
 else:
     outcome = "Legend: FATE HAS BEEN DECIDED"
