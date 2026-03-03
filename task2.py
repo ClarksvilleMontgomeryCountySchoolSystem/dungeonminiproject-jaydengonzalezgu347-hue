@@ -1,6 +1,6 @@
 has_key = True
 if not has_key:
-    outcome = "Click"
+    outcome = "Doom: NOOOOO THE KEYYYYY"
 else:
-    outcome = "Doom"
+    outcome = "Click: AREA HAS BEEN GRANTED"
 print(outcome)

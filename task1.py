@@ -1,6 +1,6 @@
 torch_lit= True
 if torch_lit:
-    outcome= "Flicker"
+    outcome= "Flicker: TORCH WORKS"
 else:
-    outcome= "Doom"
+    outcome= "Doom: MYYYYY TORCHHHH"
 print(outcome)

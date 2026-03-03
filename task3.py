@@ -1,6 +1,6 @@
 guard_awake = True
 if guard_awake:
-    outcome = "Shadow"
+    outcome = "Shadow: SNEAK PAST"
 else:
-    outcome = "Doom"
+    outcome = "Doom: YOU HAVE BEEN CAUGHT"
 print(outcome)
